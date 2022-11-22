@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  overflow-y: hidden;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #34568b;
+  height: 100%;
+}
+body h2 {
+  color: white;
+}
+
+canvas {
+  border: 1px solid white;
+  background: black;
+}
